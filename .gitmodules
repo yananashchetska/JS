@@ -1,0 +1,16 @@
+[submodule "DOM"]
+	path = DOM
+	url = https://github.com/yananashchetska/DOM.git
+[submodule "list-via-js"]
+	path = list-via-js
+	url = https://github.com/yananashchetska/list-via-js.git
+[submodule "table-practice"]
+	path = table-practice
+	url = https://github.com/yananashchetska/table-practice.git
+[submodule "form-inputs-placrholders"]
+	path = form-inputs-placrholders
+	url = https://github.com/yananashchetska/form-inputs-placrholders.git
+[submodule "JS-form-validation"]
+	path = JS-form-validation
+	url = https://github.com/yananashchetska/JS-form-validation.git
+
