@@ -13,4 +13,7 @@
 [submodule "JS-form-validation"]
 	path = JS-form-validation
 	url = https://github.com/yananashchetska/JS-form-validation.git
+[submodule "table-practice-with-copying"]
+	path = table-practice-with-copying
+	url = https://github.com/yananashchetska/table-practice-with-copying.git
 
